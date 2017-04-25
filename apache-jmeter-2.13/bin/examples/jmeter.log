@@ -1,0 +1,13 @@
+2016/01/29 15:00:27 INFO  - jmeter.util.JMeterUtils: Setting Locale to es_AR 
+2016/01/29 15:00:28 INFO  - jmeter.util.JMeterUtils: Could not find resources for 'es_AR', using 'es' 
+2016/01/29 15:00:28 INFO  - jmeter.JMeter: Loading user properties from: C:\Users\Usuario\Desktop\apache-jmeter-2.13\apache-jmeter-2.13\bin\user.properties 
+2016/01/29 15:00:28 INFO  - jmeter.JMeter: Loading system properties from: C:\Users\Usuario\Desktop\apache-jmeter-2.13\apache-jmeter-2.13\bin\system.properties 
+2016/01/29 15:00:28 FATAL - jmeter.JMeter: An error occurred:  java.lang.IllegalArgumentException: Unknown arg: C:\Users\Usuario\Desktop\apache-jmeter-2.13\apache-jmeter-2.13\bin\examples\CSVSample.jmx
+	at org.apache.jmeter.JMeter.initializeProperties(JMeter.java:607)
+	at org.apache.jmeter.JMeter.start(JMeter.java:299)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.jmeter.NewDriver.main(NewDriver.java:264)
+

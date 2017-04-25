@@ -1,0 +1,20 @@
+2016/12/15 13:08:34,1431,HTTP Request,200,OK,Thread Group 1-3,text,true,,118983,184,10,10,779,0,563
+2016/12/15 13:08:34,1431,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-3,,true,,118983,184,10,10,779,1,563
+2016/12/15 13:08:34,2904,HTTP Request,200,OK,Thread Group 1-1,text,true,,118981,184,9,9,1005,0,755
+2016/12/15 13:08:34,2904,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-1,,true,,118981,184,9,9,1005,2,755
+2016/12/15 13:08:35,3769,HTTP Request,200,OK,Thread Group 1-7,text,true,,118947,184,8,8,1688,0,1004
+2016/12/15 13:08:35,3769,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-7,,true,,118947,184,8,8,1688,0,1004
+2016/12/15 13:08:35,4028,HTTP Request,200,OK,Thread Group 1-5,text,true,,119247,184,7,7,2391,0,1889
+2016/12/15 13:08:35,4028,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-5,,true,,119247,184,7,7,2391,1,1889
+2016/12/15 13:08:35,3903,HTTP Request,200,OK,Thread Group 1-9,text,true,,118983,184,6,6,2004,0,1504
+2016/12/15 13:08:35,3903,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-9,,true,,118983,184,6,6,2004,1,1504
+2016/12/15 13:08:35,4208,HTTP Request,200,OK,Thread Group 1-8,text,true,,119013,184,5,5,2332,0,2096
+2016/12/15 13:08:35,4208,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-8,,true,,119013,184,5,5,2332,2,2096
+2016/12/15 13:08:35,4428,HTTP Request,200,OK,Thread Group 1-6,text,true,,119091,184,4,4,2298,0,1798
+2016/12/15 13:08:35,4428,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-6,,true,,119091,184,4,4,2298,1,1798
+2016/12/15 13:08:35,4811,HTTP Request,200,OK,Thread Group 1-4,text,true,,118979,184,3,3,1993,0,509
+2016/12/15 13:08:35,4811,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-4,,true,,118979,184,3,3,1993,1,509
+2016/12/15 13:08:34,6057,HTTP Request,200,OK,Thread Group 1-2,text,true,,118997,184,2,2,893,0,658
+2016/12/15 13:08:34,6057,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-2,,true,,118997,184,2,2,893,1,658
+2016/12/15 13:08:35,5724,HTTP Request,200,OK,Thread Group 1-10,text,true,,118998,184,1,1,5041,0,1893
+2016/12/15 13:08:35,5724,Transaction Controller,200,"Number of samples in transaction : 1, number of failing samples : 0",Thread Group 1-10,,true,,118998,184,1,1,5041,1,1893
